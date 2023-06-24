@@ -1,0 +1,2 @@
+# OpenCore_EFI_MSI-A320M-PRO-VDS-Ryzen2200G-RX570
+OpenCore Hackintosh EFI for MSI A320M PRO VD/S + R3 2200G + RX 570
